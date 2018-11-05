@@ -1,0 +1,4 @@
+//co radek to prikaz + ;<uspech/neuspech>
+
+Kup ipa 40ml; DONE
+zarid lesi zivot; FAILED

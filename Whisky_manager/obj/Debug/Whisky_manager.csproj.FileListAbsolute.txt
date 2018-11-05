@@ -1,0 +1,7 @@
+C:\Users\Matyas\source\repos\Whisky_manager\bin\Debug\Whisky_manager.exe.config
+C:\Users\Matyas\source\repos\Whisky_manager\bin\Debug\Whisky_manager.exe
+C:\Users\Matyas\source\repos\Whisky_manager\bin\Debug\Whisky_manager.pdb
+C:\Users\Matyas\source\repos\Whisky_manager\obj\Debug\Whisky_manager.csprojAssemblyReference.cache
+C:\Users\Matyas\source\repos\Whisky_manager\obj\Debug\Whisky_manager.csproj.CoreCompileInputs.cache
+C:\Users\Matyas\source\repos\Whisky_manager\obj\Debug\Whisky_manager.exe
+C:\Users\Matyas\source\repos\Whisky_manager\obj\Debug\Whisky_manager.pdb

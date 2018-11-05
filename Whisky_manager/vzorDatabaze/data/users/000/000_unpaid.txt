@@ -1,0 +1,4 @@
+//<ID polozky>;<ID lahve>;<ID uzvatele>;<cas nakupu>;<mnozstvi ml>;<cena polozky>;<stav - (ne)zaplaceno z/nz>
+
+3;2;0;11/1/2018 21:08:22;20;60;nz
+4;0;0;11/4/2018 20:30:12;20;35;nz

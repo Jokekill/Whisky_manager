@@ -1,0 +1,7 @@
+//<ID>;<jmeno>;<admin/user>
+
+0;Matyas KurwaFrajer Brabec;admin
+1;Vojtech Kundolap Romankyska; admin
+2;Vojtech Permonik Breca;admin
+3;Jan Zebrak Fischer; user
+4;Cyril Picus Abstinent; user
